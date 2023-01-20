@@ -1,7 +1,7 @@
 <h1>Overview</h1>
 <h2>Links</h2>
-<h3>Solution URL: Add solution URL here</h3>
-<h3>Live Site URL: Add live site URL here</h3>
+<h3>Solution URL: <a href="https://www.frontendmentor.io/solutions/fylo-data-storage-component-_Zti-rDE09">My solution</a></h3>
+<h3>Live Site URL: <a href="https://shimmering-crepe-bfc3c2.netlify.app/">Live site</a></h3>
 <h2>Built with</h2>
 <h3>Semantic HTML5 markup</h3>
 <h3>CSS custom properties</h3>
